@@ -2,7 +2,8 @@
 
 Project Ruby-saas-application
 
-Subscription based wev application
+Subscription based application
 
 http://codermanual.com
 
+ 
